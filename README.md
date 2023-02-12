@@ -1,4 +1,4 @@
-### Olá, sou a Érica Cox, de volta ao mundo dev depois de 10 anos longe
+### Olá, sou a Érica Cox, de volta ao mundo dev
 
 💻 - Atualemnte trabalho na Inside Sistemas <br>
 👩‍🎓 - Bacharel em Sistemas de Informação <br>
